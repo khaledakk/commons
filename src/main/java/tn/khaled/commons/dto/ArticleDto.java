@@ -1,11 +1,9 @@
-package com.seddik_commons.dto;
+package tn.khaled.commons.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-
-import java.time.LocalDate;
 
 @Getter
 @Setter

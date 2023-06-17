@@ -1,4 +1,4 @@
-package com.seddik_commons.restExceptionHndler;
+package tn.khaled.commons.restExceptionHndler;
 
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;

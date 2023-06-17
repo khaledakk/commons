@@ -1,4 +1,4 @@
-package com.seddik_commons;
+package tn.khaled.commons;
 
 public class Main {
     public static void main(String[] args) {

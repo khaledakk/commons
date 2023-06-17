@@ -1,5 +1,6 @@
-com\seddik_commons\Main.class
-com\seddik_commons\dto\StockDto.class
-com\seddik_commons\dto\ArticleDto.class
-com\seddik_commons\restExceptionHndler\RestExceptionHandler.class
-com\seddik_commons\entities\BaseEntity.class
+tn\khaled\commons\entities\BaseEntity.class
+tn\khaled\commons\Main.class
+tn\khaled\commons\dto\ArticleDto.class
+tn\khaled\commons\restExceptionHndler\RestExceptionHandler.class
+tn\khaled\commons\dto\OrderDto.class
+tn\khaled\commons\dto\StockDto.class

@@ -1,4 +1,4 @@
-package com.seddik_commons.entities;
+package tn.khaled.commons.entities;
 
 
 
