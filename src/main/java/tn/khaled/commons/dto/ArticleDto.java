@@ -15,4 +15,5 @@ public class ArticleDto {
     private String nom;
     private int qte;
     private StockDto stockDto;
+    private OrderDto orderDto;
 }
